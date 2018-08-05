@@ -1,4 +1,7 @@
 # Udacity-Carnival
+
+![Alt text](/Screenshot.jpg?raw=true "Screenshot")
+
 A customized carnival which was used to teach the basics of VR navigation and interaction.
 
 Unity Editor Version: 2017.4.4f1
